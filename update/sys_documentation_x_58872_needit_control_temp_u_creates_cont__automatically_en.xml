@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_creates_cont__automatically" label="Creates controls automatically" language="en" table="x_58872_needit_control_temp">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_creates_cont__automatically</element>
+            <help/>
+            <hint/>
+            <label>Creates controls automatically</label>
+            <language>en</language>
+            <name>x_58872_needit_control_temp</name>
+            <plural>Creates controls automaticallies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-20 11:17:59</sys_created_on>
+            <sys_id>62634c102f7ab0109db1ad2ef699b60b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Creates controls automatically</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_control_temp_u_creates_cont__automatically_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-20 11:17:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
